@@ -1,0 +1,16 @@
+{
+  "name": "base64-server",
+  "version": "1.0.0",
+  "description": "encode image base64 server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17",
+    "jade": "^1.11.0"
+  }
+}
